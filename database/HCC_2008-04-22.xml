@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<release>
+	<release-databaserevision>2008-04-22</release-databaserevision>
+	<release-title>Reunited!</release-title>
+	<release-minclientversion>2.28</release-minclientversion>
+	<release-notes>
+		<note author="tramsan, Kala" target="database" type="new">Added all Confectioner revamp formulae</note>
+		<note author="tramsan, Kala" target="database" type="new">Added Preparing Tier 1-3</note>
+		<note author="Piira, Kala" target="database" type="new">Added Human Storehouse</note>
+		<note author="tramsan" target="database" type="update">Updated all Components</note>
+		<note author="tramsan" target="database" type="update">Updated requirements on Confectioner tools</note>
+		<note author="Arcat" target="database" type="update">Dragon Claws will now accept Tool Socketing</note>
+		<note author="Arcat" target="database" type="update">Dragon Head Scales will now accept Jewelry Socketing</note>
+		<note author="Arcat" target="database" type="update">Added Tier VI Gems</note>
+		<note author="Arcat" target="database" type="fix">Satyr Scales no longer allow techs</note>
+		<note author="Arcat" target="database" type="fix">Some database cleanup</note>
+		<note author="Arcat" target="client" type="new">Added automatic update check</note>
+		<note author="Arcat" target="client" type="new">Changing quantities at the report screen with Shift/CTRL adds +10/+100</note>
+		<note author="Arcat" target="client" type="new">Report Bonuses calculates the sum of Death Point time reduction</note>
+		<note author="Arcat" target="client" type="new">Added Ctrl-F hotkey to search for formulae</note>
+		<note author="Arcat" target="client" type="update">Removed Unity from player profiles :(</note>
+		<note author="Arcat" target="client" type="update">Changed tier selector: Hold down Shift to enforce a tier change</note>
+		<note author="Arcat" target="client" type="fix">Fixed sticky quantity when adding a new item</note>
+		<note author="Arcat" target="client" type="fix">Tweaked layout under Vista</note>
+		<note author="Arcat" target="client" type="fix">Fixed the long standing Alt-Tab issue</note>
+		<note author="Arcat" target="installer" type="new">Added support for non-Adminstrators</note>
+		<note author="Arcat" target="installer" type="update">Updated Readme.txt and License.txt files</note>
+	</release-notes>
+	<acknowledgements>Chasing, Malachite and gems</acknowledgements>
+</release>

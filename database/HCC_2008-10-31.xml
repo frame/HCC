@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<release>
+	<release-databaserevision>2008-10-31</release-databaserevision>
+	<release-title>Harvest Fall Release!</release-title>
+	<release-minclientversion>2.29</release-minclientversion>
+	<release-notes>
+		<note author="Arcat" target="client" type="new">Added (proper) support for rare items</note>
+		<note author="Arcat" target="client" type="new">Added Windows 7 compatibility</note>
+		<note author="Arcat" target="client" type="new">Added product search (Ctrl-F)</note>
+		<note author="Arcat" target="client" type="update">Changed formula search (Ctrl-Shift-F)</note>
+		<note author="Arcat" target="client" type="update">Removed defunct NA mirror</note>
+		<note author="Arcat" target="client" type="update">The whole toolbar window is now draggable (improves usability in Vista)</note>
+		<note author="Kala" target="database" type="new">Added Cocoa Nibs, Garlic Powder, Ground Barley, Ground Cinnamon, Onion Powder, Rubbed Cilantro, Sugar</note>
+		<note author="Arcat" target="database" type="new">Added Hay Stack and Leaf Pile decorations</note>
+		<note author="Arcat" target="database" type="new">Added Helian/Lunus Dragon Transmutation chambers</note>
+		<note author="Arcat" target="database" type="new">Added T6 Blighted Cut Gem, T6 Blighted/Tainted Essence Orb</note>
+		<note author="Arcat" target="database" type="update">Adjusted Glass Vials requirements and items per batch</note>
+		<note author="Arcat" target="database" type="update">Renamed Water Golem Droplets to Water Elemental Droplets</note>
+		<note author="Arcat" target="database" type="update">Blight Resistance and Spirit Ward now got Icons</note>
+		<note author="Arcat" target="database" type="update">Yew Round Cross Shields now require Veteran Abomination Chest Skulls</note>
+		<note author="Arcat" target="database" type="fix">Added effects to all Bloodthorn items</note>
+		<note author="Arcat" target="database" type="fix">Added effects to all Reklar items</note>
+		<note author="Arcat" target="database" type="fix">Fixed Granny Nuffle's Festival Cookies Formula</note>
+		<note author="Arcat" target="database" type="fix">Fixed a typo in all food related xmls</note>
+		<note author="Arcat" target="database" type="fix">Fixed resource requirements at Murals</note>
+		<note author="Arcat" target="database" type="fix">Removed misplaced dragon scales from construction category</note>
+	</release-notes>
+	<acknowledgements>Dakoren, BlackPhoenix, Firebrand, Guaran</acknowledgements>
+</release>
