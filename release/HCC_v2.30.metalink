@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling an md5
+	checksum to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+	        
+	- GetRight 6.0b7 (http://www.getright.com/)
+	- FlashGot 0.5.9.995 (http://www.flashgot.net/)
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+	<publisher>
+		<name>HCC Development Team</name>
+		<url>http://hcc.reclamation.dk</url>
+	</publisher>
+	<description>Horizons Crafting Calculator</description>
+	<files>
+		<file name="HCC_v2.30.exe">
+			<version>2.30</version>
+			<language>en-US</language>
+			<os>Windows-x86</os>
+			<verification>
+				<hash type="md5">8961f567f8021ac3335b9ff1a200166b</hash>
+			</verification>
+			<resources>
+				<url type="http" preference="100">http://hcc.reclamation.dk/client/v2.30/HCC_v2.30.exe</url>
+			</resources>
+		</file>
+	</files>
+</metalink>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Win32 Release" />
+	<File name="AppData.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="51255" topLine="1603" />
+	</File>
+	<File name="AppData.h" open="0" top="0" tabpos="7">
+		<Cursor position="5836" topLine="128" />
+	</File>
+	<File name="BtnST.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="18401" topLine="695" />
+	</File>
+	<File name="BtnST.h" open="0" top="0" tabpos="8">
+		<Cursor position="493" topLine="1" />
+	</File>
+	<File name="Category.h" open="0" top="0" tabpos="16">
+		<Cursor position="579" topLine="0" />
+	</File>
+	<File name="CompBonusInfo.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1134" topLine="44" />
+	</File>
+	<File name="ComponentDialog.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="10097" topLine="312" />
+	</File>
+	<File name="Consts.h" open="0" top="0" tabpos="3">
+		<Cursor position="195" topLine="0" />
+	</File>
+	<File name="CrafterSearchDialog.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1189" topLine="9" />
+	</File>
+	<File name="Effect.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="8999" topLine="374" />
+	</File>
+	<File name="Formula.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="1747" topLine="60" />
+	</File>
+	<File name="FormulaTier.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="941" topLine="23" />
+	</File>
+	<File name="HCC.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="3047" topLine="95" />
+	</File>
+	<File name="HCC.h" open="0" top="0" tabpos="0">
+		<Cursor position="1146" topLine="0" />
+	</File>
+	<File name="HCC.rc" open="0" top="0" tabpos="8">
+		<Cursor position="85125" topLine="1847" />
+	</File>
+	<File name="HCCDlg.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="35812" topLine="1199" />
+	</File>
+	<File name="HCCDlg.h" open="0" top="0" tabpos="11">
+		<Cursor position="4522" topLine="122" />
+	</File>
+	<File name="ItemCreation.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="54148" topLine="1513" />
+	</File>
+	<File name="ItemCreation.h" open="0" top="0" tabpos="9">
+		<Cursor position="737" topLine="0" />
+	</File>
+	<File name="NewProfileDialog.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="1788" topLine="52" />
+	</File>
+	<File name="OptionsDialog.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="4189" topLine="177" />
+	</File>
+	<File name="OrderDialog.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="4027" topLine="114" />
+	</File>
+	<File name="OrderDialog.h" open="0" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="OrderItem.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="61" topLine="0" />
+	</File>
+	<File name="Profile.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="9528" topLine="335" />
+	</File>
+	<File name="Profile.h" open="0" top="0" tabpos="11">
+		<Cursor position="845" topLine="8" />
+	</File>
+	<File name="ProfilePage2.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1519" topLine="44" />
+	</File>
+	<File name="ProfilePage3.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1711" topLine="52" />
+	</File>
+	<File name="Regexp.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="40909" topLine="1514" />
+	</File>
+	<File name="RegistryAccess.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="1731" topLine="52" />
+	</File>
+	<File name="ReportDialog.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="63808" topLine="2056" />
+	</File>
+	<File name="ReportDialog.h" open="0" top="0" tabpos="6">
+		<Cursor position="1517" topLine="13" />
+	</File>
+	<File name="Resource.h" open="0" top="0" tabpos="0">
+		<Cursor position="12715" topLine="260" />
+	</File>
+	<File name="Tech.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="10370" topLine="345" />
+	</File>
+	<File name="TechniqueSelection.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="20896" topLine="646" />
+	</File>
+	<File name="TreeCtrlX.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="4468" topLine="164" />
+	</File>
+	<File name="TreeCtrlX.h" open="0" top="0" tabpos="0">
+		<Cursor position="708" topLine="15" />
+	</File>
+	<File name="UpdateDialog.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="28402" topLine="1028" />
+	</File>
+	<File name="WindowState.h" open="0" top="0" tabpos="0">
+		<Cursor position="775" topLine="0" />
+	</File>
+	<File name="XMLParser.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="3573" topLine="168" />
+	</File>
+	<File name="XWinVer.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="841" topLine="15" />
+	</File>
+	<File name="msflexgrid.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="34365" topLine="1436" />
+	</File>
+</CodeBlocks_layout_file>

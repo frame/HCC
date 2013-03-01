@@ -1,0 +1,3595 @@
+# depslib dependency file v1.0
+1190134455 source:c:\documents and settings\frame\my documents\code\hcc\appdata.cpp
+	"stdafx.h"
+	"HCC.h"
+	"AppData.h"
+	"RegistryAccess.h"
+	"XMLParser.h"
+	"XMLTag.h"
+	"FileHandler.h"
+	"RecacheDialog.h"
+	"UpdateDialog.h"
+	"Scheme.h"
+
+1132960290 c:\documents and settings\frame\my documents\code\hcc\stdafx.h
+	<afx.h>
+	<afxtempl.h>
+	<afxwin.h>
+	<afxext.h>
+	<afxdisp.h>
+	<afxdtctl.h>
+	<afxcmn.h>
+	<windows.h>
+	<gdiplus.h>
+	"BtnST.h"
+	"consts.h"
+
+1130776470 c:\documents and settings\frame\my documents\code\hcc\btnst.h
+
+1190124694 c:\documents and settings\frame\my documents\code\hcc\consts.h
+
+1134828844 c:\documents and settings\frame\my documents\code\hcc\hcc.h
+	"resource.h"
+
+1134863722 c:\documents and settings\frame\my documents\code\hcc\resource.h
+
+1134844118 c:\documents and settings\frame\my documents\code\hcc\appdata.h
+	"OrderDialog.h"
+	"ItemCreation.h"
+	"TechniqueSelection.h"
+	"ComponentDialog.h"
+	"SkillLevelDialog.h"
+	"ReportDialog.h"
+	"ProfileDialog.h"
+	"ProfilePage1.h"
+	"ProfilePage2.h"
+	"ProfilePage3.h"
+	"formulatier.h"
+	"formula.h"
+	"FormulaSet.h"
+	"techtier.h"
+	"tech.h"
+	"techSet.h"
+	"HCCDlg.h"
+	"ImageStore.h"
+	"OrderItem.h"
+	"Component.h"
+	"Profile.h"
+	"SchoolWizard.h"
+	"XMLParser.h"
+	"Category.h"
+	"SubCategory.h"
+
+1134850996 c:\documents and settings\frame\my documents\code\hcc\orderdialog.h
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+
+1190134451 c:\documents and settings\frame\my documents\code\hcc\windowstate.h
+
+1113666004 c:\documents and settings\frame\my documents\code\hcc\objectspace.h
+
+1114374190 c:\documents and settings\frame\my documents\code\hcc\treectrlx.h
+
+1134860138 c:\documents and settings\frame\my documents\code\hcc\itemcreation.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"Formula.h"
+	"ObjectSpace.h"
+	"OrderItem.h"
+	"TreeCtrlX.h"
+
+1134676070 c:\documents and settings\frame\my documents\code\hcc\msflexgrid.h
+
+1136458658 c:\documents and settings\frame\my documents\code\hcc\formula.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"formulatier.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"effect.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1117448666 c:\documents and settings\frame\my documents\code\hcc\bonus.h
+	"FileHandler.h"
+
+1128161472 c:\documents and settings\frame\my documents\code\hcc\filehandler.h
+
+1132077806 c:\documents and settings\frame\my documents\code\hcc\itemresource.h
+	"stdafx.h"
+	"bonus.h"
+	"FileHandler.h"
+
+1117448748 c:\documents and settings\frame\my documents\code\hcc\iteminfo.h
+	"FileHandler.h"
+
+1130516480 c:\documents and settings\frame\my documents\code\hcc\formulatier.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"effect.h"
+
+1128365612 c:\documents and settings\frame\my documents\code\hcc\keywordgroup.h
+	"FileHandler.h"
+
+1134591506 c:\documents and settings\frame\my documents\code\hcc\effect.h
+	"FileHandler.h"
+
+1117741524 c:\documents and settings\frame\my documents\code\hcc\xmlparser.h
+
+1133008712 c:\documents and settings\frame\my documents\code\hcc\xmltag.h
+	"XMLParser.h"
+
+1128247740 c:\documents and settings\frame\my documents\code\hcc\orderitem.h
+	"ItemTech.h"
+	"Tech.h"
+
+1128241994 c:\documents and settings\frame\my documents\code\hcc\itemtech.h
+
+1136464398 c:\documents and settings\frame\my documents\code\hcc\tech.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"Techtier.h"
+	"Formula.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1136486256 c:\documents and settings\frame\my documents\code\hcc\techtier.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"Effect.h"
+	"Formula.h"
+	"FormulaTier.h"
+
+1134860138 c:\documents and settings\frame\my documents\code\hcc\techniqueselection.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"Tech.h"
+	"TreeCtrlX.h"
+
+1133823312 c:\documents and settings\frame\my documents\code\hcc\componentdialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+	"Component.h"
+
+1132606776 c:\documents and settings\frame\my documents\code\hcc\component.h
+	"FileHandler.h"
+	"CompGatherInfo.h"
+
+1132605566 c:\documents and settings\frame\my documents\code\hcc\compgatherinfo.h
+	"stdafx.h"
+	"FileHandler.h"
+	"CompBonusInfo.h"
+
+1132603854 c:\documents and settings\frame\my documents\code\hcc\compbonusinfo.h
+	"stdafx.h"
+	"FileHandler.h"
+
+1133812608 c:\documents and settings\frame\my documents\code\hcc\skillleveldialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ItemResource.h"
+
+1133729434 c:\documents and settings\frame\my documents\code\hcc\reportdialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"ItemResource.h"
+	"Effect.h"
+
+1132961302 c:\documents and settings\frame\my documents\code\hcc\profiledialog.h
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+	"ProfilePage1.h"
+	"ProfilePage2.h"
+	"ProfilePage3.h"
+
+1132961314 c:\documents and settings\frame\my documents\code\hcc\profilepage1.h
+	"msflexgrid.h"
+
+1132961324 c:\documents and settings\frame\my documents\code\hcc\profilepage2.h
+
+1132961332 c:\documents and settings\frame\my documents\code\hcc\profilepage3.h
+
+1128152750 c:\documents and settings\frame\my documents\code\hcc\formulaset.h
+	"formula.h"
+	"FileHandler.h"
+
+1128159998 c:\documents and settings\frame\my documents\code\hcc\techset.h
+	"Tech.h"
+	"FileHandler.h"
+
+1134864010 c:\documents and settings\frame\my documents\code\hcc\hccdlg.h
+	"WindowState.h"
+
+1134208860 c:\documents and settings\frame\my documents\code\hcc\imagestore.h
+
+1130178134 c:\documents and settings\frame\my documents\code\hcc\profile.h
+	"Bonus.h"
+	"Skill.h"
+
+1117281382 c:\documents and settings\frame\my documents\code\hcc\skill.h
+
+1119191000 c:\documents and settings\frame\my documents\code\hcc\schoolwizard.h
+	"FileHandler.h"
+	"WizardInfo.h"
+
+1119190644 c:\documents and settings\frame\my documents\code\hcc\wizardinfo.h
+	"FileHandler.h"
+
+1128762830 c:\documents and settings\frame\my documents\code\hcc\category.h
+	"FileHandler.h"
+
+1128762830 c:\documents and settings\frame\my documents\code\hcc\subcategory.h
+	"FileHandler.h"
+
+1132866976 c:\documents and settings\frame\my documents\code\hcc\registryaccess.h
+
+1132961340 c:\documents and settings\frame\my documents\code\hcc\recachedialog.h
+
+1132961384 c:\documents and settings\frame\my documents\code\hcc\updatedialog.h
+	"XMLParser.h"
+	"FileItem.h"
+	"wininet.h"
+	"ItemInfo.h"
+	"databaserelease.h"
+
+1130529300 c:\documents and settings\frame\my documents\code\hcc\fileitem.h
+
+1130542076 c:\documents and settings\frame\my documents\code\hcc\databaserelease.h
+
+1133794756 c:\documents and settings\frame\my documents\code\hcc\scheme.h
+
+1189968004 source:c:\documents and settings\frame\my documents\code\hcc\bonus.cpp
+	"stdafx.h"
+	"Bonus.h"
+
+1130790108 source:c:\documents and settings\frame\my documents\code\hcc\btnst.cpp
+	"stdafx.h"
+	"BtnST.h"
+	<Mmsystem.h>
+
+1189968016 source:c:\documents and settings\frame\my documents\code\hcc\category.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Category.h"
+
+1189968024 source:c:\documents and settings\frame\my documents\code\hcc\compbonusinfo.cpp
+	"stdafx.h"
+	"CompBonusInfo.h"
+
+1189968032 source:c:\documents and settings\frame\my documents\code\hcc\compgatherinfo.cpp
+	"stdafx.h"
+	"CompGatherInfo.h"
+
+1189968040 source:c:\documents and settings\frame\my documents\code\hcc\component.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Component.h"
+
+1134509892 source:c:\documents and settings\frame\my documents\code\hcc\componentdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ComponentDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1112994458 source:c:\documents and settings\frame\my documents\code\hcc\craftersearchdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"CrafterSearchDialog.h"
+
+1112994458 c:\documents and settings\frame\my documents\code\hcc\craftersearchdialog.h
+
+1189968049 source:c:\documents and settings\frame\my documents\code\hcc\databaserelease.cpp
+	"stdafx.h"
+	"DatabaseRelease.h"
+
+1189968055 source:c:\documents and settings\frame\my documents\code\hcc\effect.cpp
+	"stdafx.h"
+	"Effect.h"
+
+1128161496 source:c:\documents and settings\frame\my documents\code\hcc\filehandler.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FileHandler.h"
+
+1117912512 source:c:\documents and settings\frame\my documents\code\hcc\fileitem.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FileItem.h"
+
+1190126811 source:c:\documents and settings\frame\my documents\code\hcc\formula.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Formula.h"
+	"AppData.h"
+
+1189968085 source:c:\documents and settings\frame\my documents\code\hcc\formulaset.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FormulaSet.h"
+	"XMLTag.h"
+	"XMLParser.h"
+	"AppData.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"FormulaTier.h"
+	"Formula.h"
+
+1189968092 source:c:\documents and settings\frame\my documents\code\hcc\formulatier.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Formula.h"
+
+1134829718 source:c:\documents and settings\frame\my documents\code\hcc\hcc.cpp
+	"stdafx.h"
+	"HCC.h"
+	"HCCDlg.h"
+	"AppData.h"
+	"RegistryAccess.h"
+
+1190127917 source:c:\documents and settings\frame\my documents\code\hcc\hcc.rc
+	"resource.h"
+	"afxres.h"
+	"res\HCC.rc2"
+	"afxres.rc"
+
+1114363120 c:\documents and settings\frame\my documents\code\hcc\res\hcc.rc2
+
+1134865174 source:c:\documents and settings\frame\my documents\code\hcc\hccdlg.cpp
+	"stdafx.h"
+	"HCC.h"
+	"HCCDlg.h"
+	"AppData.h"
+	"OptionsDialog.h"
+	"CrafterSearchDialog.h"
+	"UpdateDialog.h"
+	"WizardPage1.h"
+	"WizardPage2.h"
+	"WizardPage3.h"
+	"WizardDialog.h"
+	"Scheme.h"
+
+1134829644 c:\documents and settings\frame\my documents\code\hcc\optionsdialog.h
+
+1124217116 c:\documents and settings\frame\my documents\code\hcc\wizardpage1.h
+	"Profile.h"
+	"WizardDialog.h"
+	"SchoolWizard.h"
+
+1119165198 c:\documents and settings\frame\my documents\code\hcc\wizarddialog.h
+
+1124217116 c:\documents and settings\frame\my documents\code\hcc\wizardpage2.h
+	"WizardPage1.h"
+	"WizardDialog.h"
+	"treectrlx.h"
+
+1124216940 c:\documents and settings\frame\my documents\code\hcc\wizardpage3.h
+	"WizardPage1.h"
+	"WizardDialog.h"
+	"treectrlx.h"
+
+1134209012 source:c:\documents and settings\frame\my documents\code\hcc\imagestore.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ImageStore.h"
+	"AppData.h"
+
+1134845526 source:c:\documents and settings\frame\my documents\code\hcc\inputdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"InputDialog.h"
+
+1132961210 c:\documents and settings\frame\my documents\code\hcc\inputdialog.h
+
+1132961388 source:c:\documents and settings\frame\my documents\code\hcc\inputlistdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"InputListDialog.h"
+	"AppData.h"
+
+1132961224 c:\documents and settings\frame\my documents\code\hcc\inputlistdialog.h
+
+1134991314 source:c:\documents and settings\frame\my documents\code\hcc\itemcreation.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ItemCreation.h"
+	"AppData.h"
+	"FormulaTier.h"
+	"Formula.h"
+	"FormulaSet.h"
+	"InputDialog.h"
+	"InputListDialog.h"
+	"Scheme.h"
+
+1189968147 source:c:\documents and settings\frame\my documents\code\hcc\iteminfo.cpp
+	"stdafx.h"
+	"ItemInfo.h"
+
+1189968152 source:c:\documents and settings\frame\my documents\code\hcc\itemresource.cpp
+	"stdafx.h"
+	"ItemResource.h"
+
+1189968157 source:c:\documents and settings\frame\my documents\code\hcc\itemtech.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ItemTech.h"
+
+1189968162 source:c:\documents and settings\frame\my documents\code\hcc\keywordgroup.cpp
+	"stdafx.h"
+	"KeywordGroup.h"
+
+1132961388 source:c:\documents and settings\frame\my documents\code\hcc\newprofiledialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"NewProfileDialog.h"
+	"Profile.h"
+	"AppData.h"
+
+1132961268 c:\documents and settings\frame\my documents\code\hcc\newprofiledialog.h
+
+1113666952 source:c:\documents and settings\frame\my documents\code\hcc\objectspace.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ObjectSpace.h"
+
+1134830194 source:c:\documents and settings\frame\my documents\code\hcc\optionsdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OptionsDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1134854026 source:c:\documents and settings\frame\my documents\code\hcc\orderdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OrderDialog.h"
+	"AppData.h"
+	"InputDialog.h"
+	<windowsx.h>
+	<windows.h>
+	<winuser.h>
+	"Scheme.h"
+
+1189968203 source:c:\documents and settings\frame\my documents\code\hcc\orderitem.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OrderItem.h"
+
+1189968208 source:c:\documents and settings\frame\my documents\code\hcc\profile.cpp
+	"stdafx.h"
+	"Profile.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1134509466 source:c:\documents and settings\frame\my documents\code\hcc\profiledialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfileDialog.h"
+	"AppData.h"
+	"NewProfileDialog.h"
+	"Scheme.h"
+
+1134081152 source:c:\documents and settings\frame\my documents\code\hcc\profilepage1.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage1.h"
+	"SkillDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1132961358 c:\documents and settings\frame\my documents\code\hcc\skilldialog.h
+
+1134081202 source:c:\documents and settings\frame\my documents\code\hcc\profilepage2.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage2.h"
+	"Bonus.h"
+	"AppData.h"
+	"Skill.h"
+	"SkillDialog.h"
+	"Scheme.h"
+
+1132961388 source:c:\documents and settings\frame\my documents\code\hcc\profilepage3.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage3.h"
+	"Bonus.h"
+	"AppData.h"
+	"Skill.h"
+	<math.h>
+
+1134861272 source:c:\documents and settings\frame\my documents\code\hcc\recachedialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"RecacheDialog.h"
+	"AppData.h"
+
+1133707790 source:c:\documents and settings\frame\my documents\code\hcc\registryaccess.cpp
+	"stdafx.h"
+	"HCC.h"
+	"RegistryAccess.h"
+
+1137339320 source:c:\documents and settings\frame\my documents\code\hcc\reportdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ReportDialog.h"
+	"OrderItem.h"
+	"AppData.h"
+	"Scheme.h"
+
+1133897772 source:c:\documents and settings\frame\my documents\code\hcc\scheme.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Scheme.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1119191098 source:c:\documents and settings\frame\my documents\code\hcc\schoolwizard.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SchoolWizard.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1189968274 source:c:\documents and settings\frame\my documents\code\hcc\skill.cpp
+	"stdafx.h"
+	"Skill.h"
+
+1134845586 source:c:\documents and settings\frame\my documents\code\hcc\skilldialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SkillDialog.h"
+
+1134080472 source:c:\documents and settings\frame\my documents\code\hcc\skillleveldialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SkillLevelDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1098198656 source:c:\documents and settings\frame\my documents\code\hcc\stdafx.cpp
+	"stdafx.h"
+
+1189968287 source:c:\documents and settings\frame\my documents\code\hcc\subcategory.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SubCategory.h"
+
+1189968295 source:c:\documents and settings\frame\my documents\code\hcc\tech.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Tech.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"TechTier.h"
+	"AppData.h"
+
+1189968324 source:c:\documents and settings\frame\my documents\code\hcc\techset.cpp
+	"stdafx.h"
+	"HCC.h"
+	"TechSet.h"
+	"XMLTag.h"
+	"XMLParser.h"
+	"AppData.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"TechTier.h"
+	"Tech.h"
+
+1189968333 source:c:\documents and settings\frame\my documents\code\hcc\techtier.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Tech.h"
+
+1136486336 source:c:\documents and settings\frame\my documents\code\hcc\techniqueselection.cpp
+	"stdafx.h"
+	<afxctl.h>
+	"HCC.h"
+	"TechniqueSelection.h"
+	"AppData.h"
+	"Scheme.h"
+
+1135429180 source:c:\documents and settings\frame\my documents\code\hcc\treectrlx.cpp
+	"stdafx.h"
+	"HCC.h"
+	"TreeCtrlX.h"
+	"AppData.h"
+
+1190131420 source:c:\documents and settings\frame\my documents\code\hcc\updatedialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"UpdateDialog.h"
+	"AppData.h"
+	"XMLParser.h"
+	"XMLTag.h"
+	"unzip/structs.h"
+	"unzip/unzip.h"
+	"unzip/unzvers.h"
+	"unzip/decs.h"
+
+1118303160 c:\documents and settings\frame\my documents\code\hcc\unzip\structs.h
+
+1118303160 c:\documents and settings\frame\my documents\code\hcc\unzip\unzip.h
+	<c-env.h>
+	"wince/punzip.h"
+	<windows.h>
+	"windll/structs.h"
+	<rexxsaa.h>
+	<os2.h>
+	"unzpriv.h"
+
+1118303160 c:\documents and settings\frame\my documents\code\hcc\unzip\unzvers.h
+
+1118304360 c:\documents and settings\frame\my documents\code\hcc\unzip\decs.h
+	<windows.h>
+	"../unzip.h"
+	"unzip/structs.h"
+
+1190132929 source:c:\documents and settings\frame\my documents\code\hcc\windowstate.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WindowState.h"
+
+1119166304 source:c:\documents and settings\frame\my documents\code\hcc\wizarddialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardDialog.h"
+
+1189968361 source:c:\documents and settings\frame\my documents\code\hcc\wizardinfo.cpp
+	"stdafx.h"
+	"WizardInfo.h"
+
+1130078248 source:c:\documents and settings\frame\my documents\code\hcc\wizardpage1.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage1.h"
+	"AppData.h"
+	"SchoolWizard.h"
+	"Profile.h"
+
+1124217186 source:c:\documents and settings\frame\my documents\code\hcc\wizardpage2.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage2.h"
+
+1130074918 source:c:\documents and settings\frame\my documents\code\hcc\wizardpage3.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage3.h"
+	"AppData.h"
+
+1129925338 source:c:\documents and settings\frame\my documents\code\hcc\xmlparser.cpp
+	"stdafx.h"
+	"XMLParser.h"
+
+1133010220 source:c:\documents and settings\frame\my documents\code\hcc\xmltag.cpp
+	"stdafx.h"
+	"XMLTag.h"
+
+1110447786 source:c:\documents and settings\frame\my documents\code\hcc\font.cpp
+	"stdafx.h"
+	"font.h"
+
+1110447786 c:\documents and settings\frame\my documents\code\hcc\font.h
+
+1134676070 source:c:\documents and settings\frame\my documents\code\hcc\msflexgrid.cpp
+	"stdafx.h"
+	"msflexgrid.h"
+	"Font.h"
+	"Picture.h"
+	"rowcursor.h"
+	"Scheme.h"
+
+1099682886 c:\documents and settings\frame\my documents\code\hcc\picture.h
+
+1099232298 c:\documents and settings\frame\my documents\code\hcc\rowcursor.h
+
+1099232298 source:c:\documents and settings\frame\my documents\code\hcc\rowcursor.cpp
+	"stdafx.h"
+	"rowcursor.h"
+
+1109461654 c:\documents and settings\frame\my documents\code\hcc\windll\structs.h
+
+1190157498 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\appdata.cpp
+	"stdafx.h"
+	"HCC.h"
+	"AppData.h"
+	"RegistryAccess.h"
+	"XMLParser.h"
+	"XMLTag.h"
+	"FileHandler.h"
+	"RecacheDialog.h"
+	"UpdateDialog.h"
+	"Scheme.h"
+
+1132960290 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\stdafx.h
+	<afx.h>
+	<afxtempl.h>
+	<afxwin.h>
+	<afxext.h>
+	<afxdisp.h>
+	<afxdtctl.h>
+	<afxcmn.h>
+	<windows.h>
+	<gdiplus.h>
+	"BtnST.h"
+	"consts.h"
+
+1130776470 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\btnst.h
+
+1190124694 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\consts.h
+
+1134828844 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\hcc.h
+	"resource.h"
+
+1134863722 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\resource.h
+
+1134844118 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\appdata.h
+	"OrderDialog.h"
+	"ItemCreation.h"
+	"TechniqueSelection.h"
+	"ComponentDialog.h"
+	"SkillLevelDialog.h"
+	"ReportDialog.h"
+	"ProfileDialog.h"
+	"ProfilePage1.h"
+	"ProfilePage2.h"
+	"ProfilePage3.h"
+	"formulatier.h"
+	"formula.h"
+	"FormulaSet.h"
+	"techtier.h"
+	"tech.h"
+	"techSet.h"
+	"HCCDlg.h"
+	"ImageStore.h"
+	"OrderItem.h"
+	"Component.h"
+	"Profile.h"
+	"SchoolWizard.h"
+	"XMLParser.h"
+	"Category.h"
+	"SubCategory.h"
+
+1134850996 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\orderdialog.h
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+
+1190134451 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\windowstate.h
+
+1113666004 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\objectspace.h
+
+1114374190 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\treectrlx.h
+
+1134860138 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\itemcreation.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"Formula.h"
+	"ObjectSpace.h"
+	"OrderItem.h"
+	"TreeCtrlX.h"
+
+1134676070 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\msflexgrid.h
+
+1136458658 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\formula.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"formulatier.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"effect.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1117448666 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\bonus.h
+	"FileHandler.h"
+
+1128161472 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\filehandler.h
+
+1132077806 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\itemresource.h
+	"stdafx.h"
+	"bonus.h"
+	"FileHandler.h"
+
+1117448748 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\iteminfo.h
+	"FileHandler.h"
+
+1130516480 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\formulatier.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"effect.h"
+
+1128365612 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\keywordgroup.h
+	"FileHandler.h"
+
+1134591506 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\effect.h
+	"FileHandler.h"
+
+1117741524 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\xmlparser.h
+
+1133008712 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\xmltag.h
+	"XMLParser.h"
+
+1128247740 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\orderitem.h
+	"ItemTech.h"
+	"Tech.h"
+
+1128241994 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\itemtech.h
+
+1136464398 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\tech.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"Techtier.h"
+	"Formula.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1136486256 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\techtier.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"Effect.h"
+	"Formula.h"
+	"FormulaTier.h"
+
+1134860138 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\techniqueselection.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"Tech.h"
+	"TreeCtrlX.h"
+
+1133823312 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\componentdialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+	"Component.h"
+
+1132606776 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\component.h
+	"FileHandler.h"
+	"CompGatherInfo.h"
+
+1132605566 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\compgatherinfo.h
+	"stdafx.h"
+	"FileHandler.h"
+	"CompBonusInfo.h"
+
+1132603854 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\compbonusinfo.h
+	"stdafx.h"
+	"FileHandler.h"
+
+1133812608 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\skillleveldialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ItemResource.h"
+
+1133729434 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\reportdialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"ItemResource.h"
+	"Effect.h"
+
+1132961302 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\profiledialog.h
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+	"ProfilePage1.h"
+	"ProfilePage2.h"
+	"ProfilePage3.h"
+
+1132961314 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\profilepage1.h
+	"msflexgrid.h"
+
+1132961324 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\profilepage2.h
+
+1132961332 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\profilepage3.h
+
+1128152750 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\formulaset.h
+	"formula.h"
+	"FileHandler.h"
+
+1128159998 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\techset.h
+	"Tech.h"
+	"FileHandler.h"
+
+1134864010 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\hccdlg.h
+	"WindowState.h"
+
+1134208860 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\imagestore.h
+
+1130178134 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\profile.h
+	"Bonus.h"
+	"Skill.h"
+
+1117281382 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\skill.h
+
+1119191000 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\schoolwizard.h
+	"FileHandler.h"
+	"WizardInfo.h"
+
+1119190644 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\wizardinfo.h
+	"FileHandler.h"
+
+1128762830 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\category.h
+	"FileHandler.h"
+
+1128762830 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\subcategory.h
+	"FileHandler.h"
+
+1132866976 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\registryaccess.h
+
+1132961340 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\recachedialog.h
+
+1190157947 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\updatedialog.h
+	"XMLParser.h"
+	"FileItem.h"
+	"wininet.h"
+	"ItemInfo.h"
+	"databaserelease.h"
+
+1130529300 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\fileitem.h
+
+1130542076 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\databaserelease.h
+
+1133794756 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\scheme.h
+
+1189968004 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\bonus.cpp
+	"stdafx.h"
+	"Bonus.h"
+
+1130790108 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\btnst.cpp
+	"stdafx.h"
+	"BtnST.h"
+	<Mmsystem.h>
+
+1189968016 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\category.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Category.h"
+
+1189968024 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\compbonusinfo.cpp
+	"stdafx.h"
+	"CompBonusInfo.h"
+
+1189968032 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\compgatherinfo.cpp
+	"stdafx.h"
+	"CompGatherInfo.h"
+
+1189968040 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\component.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Component.h"
+
+1134509892 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\componentdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ComponentDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1112994458 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\craftersearchdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"CrafterSearchDialog.h"
+
+1112994458 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\craftersearchdialog.h
+
+1189968049 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\databaserelease.cpp
+	"stdafx.h"
+	"DatabaseRelease.h"
+
+1189968055 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\effect.cpp
+	"stdafx.h"
+	"Effect.h"
+
+1128161496 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\filehandler.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FileHandler.h"
+
+1117912512 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\fileitem.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FileItem.h"
+
+1190126811 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\formula.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Formula.h"
+	"AppData.h"
+
+1189968085 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\formulaset.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FormulaSet.h"
+	"XMLTag.h"
+	"XMLParser.h"
+	"AppData.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"FormulaTier.h"
+	"Formula.h"
+
+1189968092 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\formulatier.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Formula.h"
+
+1134829718 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\hcc.cpp
+	"stdafx.h"
+	"HCC.h"
+	"HCCDlg.h"
+	"AppData.h"
+	"RegistryAccess.h"
+
+1190127917 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\hcc.rc
+	"resource.h"
+	"afxres.h"
+	"res\HCC.rc2"
+	"afxres.rc"
+
+1114363120 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\res\hcc.rc2
+
+1134865174 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\hccdlg.cpp
+	"stdafx.h"
+	"HCC.h"
+	"HCCDlg.h"
+	"AppData.h"
+	"OptionsDialog.h"
+	"CrafterSearchDialog.h"
+	"UpdateDialog.h"
+	"WizardPage1.h"
+	"WizardPage2.h"
+	"WizardPage3.h"
+	"WizardDialog.h"
+	"Scheme.h"
+
+1134829644 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\optionsdialog.h
+
+1124217116 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\wizardpage1.h
+	"Profile.h"
+	"WizardDialog.h"
+	"SchoolWizard.h"
+
+1119165198 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\wizarddialog.h
+
+1124217116 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\wizardpage2.h
+	"WizardPage1.h"
+	"WizardDialog.h"
+	"treectrlx.h"
+
+1124216940 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\wizardpage3.h
+	"WizardPage1.h"
+	"WizardDialog.h"
+	"treectrlx.h"
+
+1134209012 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\imagestore.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ImageStore.h"
+	"AppData.h"
+
+1134845526 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\inputdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"InputDialog.h"
+
+1132961210 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\inputdialog.h
+
+1132961388 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\inputlistdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"InputListDialog.h"
+	"AppData.h"
+
+1132961224 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\inputlistdialog.h
+
+1134991314 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\itemcreation.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ItemCreation.h"
+	"AppData.h"
+	"FormulaTier.h"
+	"Formula.h"
+	"FormulaSet.h"
+	"InputDialog.h"
+	"InputListDialog.h"
+	"Scheme.h"
+
+1189968147 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\iteminfo.cpp
+	"stdafx.h"
+	"ItemInfo.h"
+
+1189968152 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\itemresource.cpp
+	"stdafx.h"
+	"ItemResource.h"
+
+1189968157 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\itemtech.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ItemTech.h"
+
+1189968162 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\keywordgroup.cpp
+	"stdafx.h"
+	"KeywordGroup.h"
+
+1132961388 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\newprofiledialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"NewProfileDialog.h"
+	"Profile.h"
+	"AppData.h"
+
+1132961268 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\newprofiledialog.h
+
+1113666952 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\objectspace.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ObjectSpace.h"
+
+1134830194 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\optionsdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OptionsDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1134854026 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\orderdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OrderDialog.h"
+	"AppData.h"
+	"InputDialog.h"
+	<windowsx.h>
+	<windows.h>
+	<winuser.h>
+	"Scheme.h"
+
+1189968203 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\orderitem.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OrderItem.h"
+
+1189968208 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\profile.cpp
+	"stdafx.h"
+	"Profile.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1134509466 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\profiledialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfileDialog.h"
+	"AppData.h"
+	"NewProfileDialog.h"
+	"Scheme.h"
+
+1134081152 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\profilepage1.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage1.h"
+	"SkillDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1132961358 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\skilldialog.h
+
+1134081202 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\profilepage2.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage2.h"
+	"Bonus.h"
+	"AppData.h"
+	"Skill.h"
+	"SkillDialog.h"
+	"Scheme.h"
+
+1132961388 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\profilepage3.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage3.h"
+	"Bonus.h"
+	"AppData.h"
+	"Skill.h"
+	<math.h>
+
+1134861272 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\recachedialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"RecacheDialog.h"
+	"AppData.h"
+
+1133707790 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\registryaccess.cpp
+	"stdafx.h"
+	"HCC.h"
+	"RegistryAccess.h"
+
+1137339320 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\reportdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ReportDialog.h"
+	"OrderItem.h"
+	"AppData.h"
+	"Scheme.h"
+
+1133897772 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\scheme.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Scheme.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1119191098 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\schoolwizard.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SchoolWizard.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1189968274 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\skill.cpp
+	"stdafx.h"
+	"Skill.h"
+
+1134845586 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\skilldialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SkillDialog.h"
+
+1134080472 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\skillleveldialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SkillLevelDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1098198656 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\stdafx.cpp
+	"stdafx.h"
+
+1189968287 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\subcategory.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SubCategory.h"
+
+1189968295 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\tech.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Tech.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"TechTier.h"
+	"AppData.h"
+
+1189968324 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\techset.cpp
+	"stdafx.h"
+	"HCC.h"
+	"TechSet.h"
+	"XMLTag.h"
+	"XMLParser.h"
+	"AppData.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"TechTier.h"
+	"Tech.h"
+
+1189968333 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\techtier.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Tech.h"
+
+1136486336 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\techniqueselection.cpp
+	"stdafx.h"
+	<afxctl.h>
+	"HCC.h"
+	"TechniqueSelection.h"
+	"AppData.h"
+	"Scheme.h"
+
+1135429180 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\treectrlx.cpp
+	"stdafx.h"
+	"HCC.h"
+	"TreeCtrlX.h"
+	"AppData.h"
+
+1190157943 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\updatedialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"UpdateDialog.h"
+	"AppData.h"
+	"XMLParser.h"
+	"XMLTag.h"
+	"unzip/structs.h"
+	"unzip/unzip.h"
+	"unzip/unzvers.h"
+	"unzip/decs.h"
+
+1118303160 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\unzip\structs.h
+
+1118303160 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\unzip\unzip.h
+	<c-env.h>
+	"wince/punzip.h"
+	<windows.h>
+	"windll/structs.h"
+	<rexxsaa.h>
+	<os2.h>
+	"unzpriv.h"
+
+1118303160 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\unzip\unzvers.h
+
+1118304360 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\unzip\decs.h
+	<windows.h>
+	"../unzip.h"
+	"unzip/structs.h"
+
+1190132929 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\windowstate.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WindowState.h"
+
+1119166304 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\wizarddialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardDialog.h"
+
+1189968361 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\wizardinfo.cpp
+	"stdafx.h"
+	"WizardInfo.h"
+
+1130078248 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\wizardpage1.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage1.h"
+	"AppData.h"
+	"SchoolWizard.h"
+	"Profile.h"
+
+1124217186 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\wizardpage2.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage2.h"
+
+1130074918 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\wizardpage3.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage3.h"
+	"AppData.h"
+
+1129925338 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\xmlparser.cpp
+	"stdafx.h"
+	"XMLParser.h"
+
+1133010220 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\xmltag.cpp
+	"stdafx.h"
+	"XMLTag.h"
+
+1110447786 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\font.cpp
+	"stdafx.h"
+	"font.h"
+
+1110447786 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\font.h
+
+1134676070 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\msflexgrid.cpp
+	"stdafx.h"
+	"msflexgrid.h"
+	"Font.h"
+	"Picture.h"
+	"rowcursor.h"
+	"Scheme.h"
+
+1099682886 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\picture.h
+
+1099232298 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\rowcursor.h
+
+1099232298 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.27\rowcursor.cpp
+	"stdafx.h"
+	"rowcursor.h"
+
+1208719000 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\appdata.cpp
+	"stdafx.h"
+	"HCC.h"
+	"AppData.h"
+	"RegistryAccess.h"
+	"XMLParser.h"
+	"XMLTag.h"
+	"FileHandler.h"
+	"RecacheDialog.h"
+	"UpdateDialog.h"
+	"Scheme.h"
+
+1132960290 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\stdafx.h
+	<afx.h>
+	<afxtempl.h>
+	<afxwin.h>
+	<afxext.h>
+	<afxdisp.h>
+	<afxdtctl.h>
+	<afxcmn.h>
+	<windows.h>
+	<gdiplus.h>
+	"BtnST.h"
+	"consts.h"
+
+1130776470 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\btnst.h
+
+1208637805 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\consts.h
+
+1134828844 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\hcc.h
+	"resource.h"
+
+1208527229 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\resource.h
+
+1208526454 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\appdata.h
+	"OrderDialog.h"
+	"ItemCreation.h"
+	"TechniqueSelection.h"
+	"ComponentDialog.h"
+	"SkillLevelDialog.h"
+	"ReportDialog.h"
+	"ProfileDialog.h"
+	"ProfilePage1.h"
+	"ProfilePage2.h"
+	"ProfilePage3.h"
+	"formulatier.h"
+	"formula.h"
+	"FormulaSet.h"
+	"techtier.h"
+	"tech.h"
+	"techSet.h"
+	"HCCDlg.h"
+	"ImageStore.h"
+	"OrderItem.h"
+	"Component.h"
+	"Profile.h"
+	"SchoolWizard.h"
+	"XMLParser.h"
+	"Category.h"
+	"SubCategory.h"
+
+1134850996 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\orderdialog.h
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+
+1208460380 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\windowstate.h
+
+1113666004 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\objectspace.h
+
+1114374190 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\treectrlx.h
+
+1208629065 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\itemcreation.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"Formula.h"
+	"ObjectSpace.h"
+	"OrderItem.h"
+	"TreeCtrlX.h"
+
+1134676070 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\msflexgrid.h
+
+1136458658 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\formula.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"formulatier.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"effect.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1117448666 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\bonus.h
+	"FileHandler.h"
+
+1128161472 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\filehandler.h
+
+1132077806 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\itemresource.h
+	"stdafx.h"
+	"bonus.h"
+	"FileHandler.h"
+
+1117448748 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\iteminfo.h
+	"FileHandler.h"
+
+1130516480 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\formulatier.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"effect.h"
+
+1128365612 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\keywordgroup.h
+	"FileHandler.h"
+
+1134591506 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\effect.h
+	"FileHandler.h"
+
+1117741524 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\xmlparser.h
+
+1133008712 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\xmltag.h
+	"XMLParser.h"
+
+1128247740 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\orderitem.h
+	"ItemTech.h"
+	"Tech.h"
+
+1128241994 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\itemtech.h
+
+1136464398 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\tech.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"Techtier.h"
+	"Formula.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1136486256 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\techtier.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"Effect.h"
+	"Formula.h"
+	"FormulaTier.h"
+
+1134860138 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\techniqueselection.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"Tech.h"
+	"TreeCtrlX.h"
+
+1208460007 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\componentdialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+	"Component.h"
+
+1132606776 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\component.h
+	"FileHandler.h"
+	"CompGatherInfo.h"
+
+1132605566 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\compgatherinfo.h
+	"stdafx.h"
+	"FileHandler.h"
+	"CompBonusInfo.h"
+
+1132603854 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\compbonusinfo.h
+	"stdafx.h"
+	"FileHandler.h"
+
+1133812608 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\skillleveldialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ItemResource.h"
+
+1208658557 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\reportdialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"ItemResource.h"
+	"Effect.h"
+
+1132961302 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\profiledialog.h
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+	"ProfilePage1.h"
+	"ProfilePage2.h"
+	"ProfilePage3.h"
+
+1132961314 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\profilepage1.h
+	"msflexgrid.h"
+
+1132961324 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\profilepage2.h
+
+1132961332 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\profilepage3.h
+
+1128152750 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\formulaset.h
+	"formula.h"
+	"FileHandler.h"
+
+1128159998 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\techset.h
+	"Tech.h"
+	"FileHandler.h"
+
+1208628793 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\hccdlg.h
+	"WindowState.h"
+	"wininet.h"
+
+1134208860 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\imagestore.h
+
+1130178134 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\profile.h
+	"Bonus.h"
+	"Skill.h"
+
+1117281382 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\skill.h
+
+1119191000 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\schoolwizard.h
+	"FileHandler.h"
+	"WizardInfo.h"
+
+1119190644 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\wizardinfo.h
+	"FileHandler.h"
+
+1128762830 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\category.h
+	"FileHandler.h"
+
+1128762830 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\subcategory.h
+	"FileHandler.h"
+
+1132866976 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\registryaccess.h
+
+1132961340 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\recachedialog.h
+
+1190157947 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\updatedialog.h
+	"XMLParser.h"
+	"FileItem.h"
+	"wininet.h"
+	"ItemInfo.h"
+	"databaserelease.h"
+
+1130529300 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\fileitem.h
+
+1130542076 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\databaserelease.h
+
+1133794756 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\scheme.h
+
+1189968004 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\bonus.cpp
+	"stdafx.h"
+	"Bonus.h"
+
+1130790108 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\btnst.cpp
+	"stdafx.h"
+	"BtnST.h"
+	<Mmsystem.h>
+
+1189968016 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\category.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Category.h"
+
+1189968024 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\compbonusinfo.cpp
+	"stdafx.h"
+	"CompBonusInfo.h"
+
+1189968032 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\compgatherinfo.cpp
+	"stdafx.h"
+	"CompGatherInfo.h"
+
+1189968040 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\component.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Component.h"
+
+1134509892 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\componentdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ComponentDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1112994458 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\craftersearchdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"CrafterSearchDialog.h"
+
+1112994458 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\craftersearchdialog.h
+
+1189968049 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\databaserelease.cpp
+	"stdafx.h"
+	"DatabaseRelease.h"
+
+1208637810 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\effect.cpp
+	"stdafx.h"
+	"Effect.h"
+
+1128161496 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\filehandler.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FileHandler.h"
+
+1117912512 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\fileitem.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FileItem.h"
+
+1190126811 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\formula.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Formula.h"
+	"AppData.h"
+
+1189968085 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\formulaset.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FormulaSet.h"
+	"XMLTag.h"
+	"XMLParser.h"
+	"AppData.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"FormulaTier.h"
+	"Formula.h"
+
+1189968092 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\formulatier.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Formula.h"
+
+1208525855 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\hcc.cpp
+	"stdafx.h"
+	"HCC.h"
+	"HCCDlg.h"
+	"AppData.h"
+	"RegistryAccess.h"
+
+1208695888 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\hccdlg.cpp
+	"stdafx.h"
+	"HCC.h"
+	"HCCDlg.h"
+	"AppData.h"
+	"OptionsDialog.h"
+	"CrafterSearchDialog.h"
+	"UpdateDialog.h"
+	"WizardPage1.h"
+	"WizardPage2.h"
+	"WizardPage3.h"
+	"WizardDialog.h"
+	"Scheme.h"
+	"XWinVer.h"
+	"Regexp.h"
+
+1208526844 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\optionsdialog.h
+
+1124217116 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\wizardpage1.h
+	"Profile.h"
+	"WizardDialog.h"
+	"SchoolWizard.h"
+
+1119165198 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\wizarddialog.h
+
+1124217116 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\wizardpage2.h
+	"WizardPage1.h"
+	"WizardDialog.h"
+	"treectrlx.h"
+
+1124216940 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\wizardpage3.h
+	"WizardPage1.h"
+	"WizardDialog.h"
+	"treectrlx.h"
+
+1134209012 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\imagestore.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ImageStore.h"
+	"AppData.h"
+
+1134845526 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\inputdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"InputDialog.h"
+
+1132961210 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\inputdialog.h
+
+1132961388 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\inputlistdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"InputListDialog.h"
+	"AppData.h"
+
+1132961224 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\inputlistdialog.h
+
+1208723126 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\itemcreation.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ItemCreation.h"
+	"AppData.h"
+	"FormulaTier.h"
+	"Formula.h"
+	"FormulaSet.h"
+	"InputDialog.h"
+	"InputListDialog.h"
+	"Scheme.h"
+
+1189968147 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\iteminfo.cpp
+	"stdafx.h"
+	"ItemInfo.h"
+
+1189968152 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\itemresource.cpp
+	"stdafx.h"
+	"ItemResource.h"
+
+1189968157 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\itemtech.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ItemTech.h"
+
+1189968162 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\keywordgroup.cpp
+	"stdafx.h"
+	"KeywordGroup.h"
+
+1132961388 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\newprofiledialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"NewProfileDialog.h"
+	"Profile.h"
+	"AppData.h"
+
+1132961268 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\newprofiledialog.h
+
+1113666952 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\objectspace.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ObjectSpace.h"
+
+1208527310 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\optionsdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OptionsDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1134854026 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\orderdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OrderDialog.h"
+	"AppData.h"
+	"InputDialog.h"
+	<windowsx.h>
+	<windows.h>
+	<winuser.h>
+	"Scheme.h"
+
+1189968203 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\orderitem.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OrderItem.h"
+
+1189968208 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\profile.cpp
+	"stdafx.h"
+	"Profile.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1208457404 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\profiledialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfileDialog.h"
+	"AppData.h"
+	"NewProfileDialog.h"
+	"Scheme.h"
+
+1134081152 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\profilepage1.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage1.h"
+	"SkillDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1132961358 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\skilldialog.h
+
+1134081202 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\profilepage2.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage2.h"
+	"Bonus.h"
+	"AppData.h"
+	"Skill.h"
+	"SkillDialog.h"
+	"Scheme.h"
+
+1132961388 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\profilepage3.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage3.h"
+	"Bonus.h"
+	"AppData.h"
+	"Skill.h"
+	<math.h>
+
+1134861272 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\recachedialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"RecacheDialog.h"
+	"AppData.h"
+
+1133707790 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\registryaccess.cpp
+	"stdafx.h"
+	"HCC.h"
+	"RegistryAccess.h"
+
+1208663215 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\reportdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ReportDialog.h"
+	"OrderItem.h"
+	"AppData.h"
+	"Scheme.h"
+	"Regexp.h"
+
+1133897772 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\scheme.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Scheme.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1119191098 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\schoolwizard.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SchoolWizard.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1189968274 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\skill.cpp
+	"stdafx.h"
+	"Skill.h"
+
+1134845586 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\skilldialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SkillDialog.h"
+
+1134080472 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\skillleveldialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SkillLevelDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1098198656 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\stdafx.cpp
+	"stdafx.h"
+
+1189968287 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\subcategory.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SubCategory.h"
+
+1189968295 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\tech.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Tech.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"TechTier.h"
+	"AppData.h"
+
+1189968324 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\techset.cpp
+	"stdafx.h"
+	"HCC.h"
+	"TechSet.h"
+	"XMLTag.h"
+	"XMLParser.h"
+	"AppData.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"TechTier.h"
+	"Tech.h"
+
+1189968333 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\techtier.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Tech.h"
+
+1136486336 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\techniqueselection.cpp
+	"stdafx.h"
+	<afxctl.h>
+	"HCC.h"
+	"TechniqueSelection.h"
+	"AppData.h"
+	"Scheme.h"
+
+1135429180 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\treectrlx.cpp
+	"stdafx.h"
+	"HCC.h"
+	"TreeCtrlX.h"
+	"AppData.h"
+
+1208698368 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\updatedialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"UpdateDialog.h"
+	"AppData.h"
+	"XMLParser.h"
+	"XMLTag.h"
+	"unzip/structs.h"
+	"unzip/unzip.h"
+	"unzip/unzvers.h"
+	"unzip/decs.h"
+
+1118303160 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\unzip\structs.h
+
+1118303160 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\unzip\unzip.h
+	<c-env.h>
+	"wince/punzip.h"
+	<windows.h>
+	"windll/structs.h"
+	<rexxsaa.h>
+	<os2.h>
+	"unzpriv.h"
+
+1118303160 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\unzip\unzvers.h
+
+1118304360 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\unzip\decs.h
+	<windows.h>
+	"../unzip.h"
+	"unzip/structs.h"
+
+1208460374 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\windowstate.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WindowState.h"
+
+1119166304 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\wizarddialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardDialog.h"
+
+1189968361 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\wizardinfo.cpp
+	"stdafx.h"
+	"WizardInfo.h"
+
+1130078248 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\wizardpage1.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage1.h"
+	"AppData.h"
+	"SchoolWizard.h"
+	"Profile.h"
+
+1124217186 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\wizardpage2.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage2.h"
+
+1130074918 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\wizardpage3.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage3.h"
+	"AppData.h"
+
+1129925338 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\xmlparser.cpp
+	"stdafx.h"
+	"XMLParser.h"
+
+1208653197 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\xmltag.cpp
+	"stdafx.h"
+	"XMLTag.h"
+
+1110447786 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\font.cpp
+	"stdafx.h"
+	"font.h"
+
+1110447786 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\font.h
+
+1134676070 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\msflexgrid.cpp
+	"stdafx.h"
+	"msflexgrid.h"
+	"Font.h"
+	"Picture.h"
+	"rowcursor.h"
+	"Scheme.h"
+
+1099682886 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\picture.h
+
+1099232298 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\rowcursor.h
+
+1099232298 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\rowcursor.cpp
+	"stdafx.h"
+	"rowcursor.h"
+
+1208698622 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\hcc.rc
+	"resource.h"
+	"afxres.h"
+	"res\HCC.rc2"
+	"afxres.rc"
+
+1114363120 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\res\hcc.rc2
+
+1181139264 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\xwinver.cpp
+	"stdafx.h"
+	"XWinVer.h"
+
+1181135282 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\xwinver.h
+
+891461320 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\regexp.cpp
+	"stdafx.h"
+	"regexp.h"
+
+890778086 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.28\regexp.h
+
+1225466776 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\appdata.cpp
+	"stdafx.h"
+	"HCC.h"
+	"AppData.h"
+	"RegistryAccess.h"
+	"XMLParser.h"
+	"XMLTag.h"
+	"FileHandler.h"
+	"RecacheDialog.h"
+	"UpdateDialog.h"
+	"Scheme.h"
+
+1132956690 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\stdafx.h
+	<afx.h>
+	<afxtempl.h>
+	<afxwin.h>
+	<afxext.h>
+	<afxdisp.h>
+	<afxdtctl.h>
+	<afxcmn.h>
+	<windows.h>
+	<gdiplus.h>
+	"BtnST.h"
+	"consts.h"
+
+1130772870 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\btnst.h
+
+1225390061 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\consts.h
+
+1134825244 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\hcc.h
+	"resource.h"
+
+1224947911 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\resource.h
+
+1225466555 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\appdata.h
+	"OrderDialog.h"
+	"ItemCreation.h"
+	"TechniqueSelection.h"
+	"ComponentDialog.h"
+	"SkillLevelDialog.h"
+	"ReportDialog.h"
+	"ProfileDialog.h"
+	"ProfilePage1.h"
+	"ProfilePage2.h"
+	"ProfilePage3.h"
+	"formulatier.h"
+	"formula.h"
+	"FormulaSet.h"
+	"techtier.h"
+	"tech.h"
+	"techSet.h"
+	"HCCDlg.h"
+	"ImageStore.h"
+	"OrderItem.h"
+	"Component.h"
+	"Profile.h"
+	"SchoolWizard.h"
+	"XMLParser.h"
+	"Category.h"
+	"SubCategory.h"
+
+1134847396 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\orderdialog.h
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+
+1208456780 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\windowstate.h
+
+1113662404 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\objectspace.h
+
+1114370590 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\treectrlx.h
+
+1225455177 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\itemcreation.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"Formula.h"
+	"ObjectSpace.h"
+	"OrderItem.h"
+	"TreeCtrlX.h"
+
+1134672470 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\msflexgrid.h
+
+1136455058 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\formula.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"formulatier.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"effect.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1117445066 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\bonus.h
+	"FileHandler.h"
+
+1128157872 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\filehandler.h
+
+1132074206 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\itemresource.h
+	"stdafx.h"
+	"bonus.h"
+	"FileHandler.h"
+
+1117445148 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\iteminfo.h
+	"FileHandler.h"
+
+1130512880 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\formulatier.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"effect.h"
+
+1128362012 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\keywordgroup.h
+	"FileHandler.h"
+
+1134587906 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\effect.h
+	"FileHandler.h"
+
+1117737924 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\xmlparser.h
+
+1133005112 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\xmltag.h
+	"XMLParser.h"
+
+1128244140 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\orderitem.h
+	"ItemTech.h"
+	"Tech.h"
+
+1128238394 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\itemtech.h
+
+1136460798 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\tech.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"Techtier.h"
+	"Formula.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1136482656 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\techtier.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"Effect.h"
+	"Formula.h"
+	"FormulaTier.h"
+
+1134856538 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\techniqueselection.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"Tech.h"
+	"TreeCtrlX.h"
+
+1208456407 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\componentdialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+	"Component.h"
+
+1132603176 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\component.h
+	"FileHandler.h"
+	"CompGatherInfo.h"
+
+1132601966 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\compgatherinfo.h
+	"stdafx.h"
+	"FileHandler.h"
+	"CompBonusInfo.h"
+
+1132600254 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\compbonusinfo.h
+	"stdafx.h"
+	"FileHandler.h"
+
+1133809008 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\skillleveldialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ItemResource.h"
+
+1208654957 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\reportdialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"ItemResource.h"
+	"Effect.h"
+
+1132957702 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\profiledialog.h
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+	"ProfilePage1.h"
+	"ProfilePage2.h"
+	"ProfilePage3.h"
+
+1132957714 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\profilepage1.h
+	"msflexgrid.h"
+
+1132957724 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\profilepage2.h
+
+1132957732 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\profilepage3.h
+
+1128149150 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\formulaset.h
+	"formula.h"
+	"FileHandler.h"
+
+1128156398 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\techset.h
+	"Tech.h"
+	"FileHandler.h"
+
+1225455094 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\hccdlg.h
+	"WindowState.h"
+	"wininet.h"
+
+1134205260 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\imagestore.h
+
+1130174534 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\profile.h
+	"Bonus.h"
+	"Skill.h"
+
+1117277782 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\skill.h
+
+1119187400 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\schoolwizard.h
+	"FileHandler.h"
+	"WizardInfo.h"
+
+1119187044 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\wizardinfo.h
+	"FileHandler.h"
+
+1128759230 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\category.h
+	"FileHandler.h"
+
+1128759230 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\subcategory.h
+	"FileHandler.h"
+
+1132863376 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\registryaccess.h
+
+1132957740 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\recachedialog.h
+
+1190154347 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\updatedialog.h
+	"XMLParser.h"
+	"FileItem.h"
+	"wininet.h"
+	"ItemInfo.h"
+	"databaserelease.h"
+
+1130525700 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\fileitem.h
+
+1130538476 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\databaserelease.h
+
+1133791156 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\scheme.h
+
+1189964404 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\bonus.cpp
+	"stdafx.h"
+	"Bonus.h"
+
+1130786508 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\btnst.cpp
+	"stdafx.h"
+	"BtnST.h"
+	<Mmsystem.h>
+
+1189964416 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\category.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Category.h"
+
+1189964424 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\compbonusinfo.cpp
+	"stdafx.h"
+	"CompBonusInfo.h"
+
+1189964432 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\compgatherinfo.cpp
+	"stdafx.h"
+	"CompGatherInfo.h"
+
+1189964440 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\component.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Component.h"
+
+1134506292 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\componentdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ComponentDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1112990858 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\craftersearchdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"CrafterSearchDialog.h"
+
+1112990858 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\craftersearchdialog.h
+
+1189964449 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\databaserelease.cpp
+	"stdafx.h"
+	"DatabaseRelease.h"
+
+1225390035 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\effect.cpp
+	"stdafx.h"
+	"Effect.h"
+
+1128157896 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\filehandler.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FileHandler.h"
+
+1117908912 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\fileitem.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FileItem.h"
+
+1190123211 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\formula.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Formula.h"
+	"AppData.h"
+
+1189964485 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\formulaset.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FormulaSet.h"
+	"XMLTag.h"
+	"XMLParser.h"
+	"AppData.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"FormulaTier.h"
+	"Formula.h"
+
+1189964492 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\formulatier.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Formula.h"
+
+1208522255 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\hcc.cpp
+	"stdafx.h"
+	"HCC.h"
+	"HCCDlg.h"
+	"AppData.h"
+	"RegistryAccess.h"
+
+1225455070 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\hccdlg.cpp
+	"stdafx.h"
+	"HCC.h"
+	"HCCDlg.h"
+	"AppData.h"
+	"OptionsDialog.h"
+	"CrafterSearchDialog.h"
+	"UpdateDialog.h"
+	"WizardPage1.h"
+	"WizardPage2.h"
+	"WizardPage3.h"
+	"WizardDialog.h"
+	"Scheme.h"
+	"XWinVer.h"
+	"Regexp.h"
+
+1208523244 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\optionsdialog.h
+
+1124213516 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\wizardpage1.h
+	"Profile.h"
+	"WizardDialog.h"
+	"SchoolWizard.h"
+
+1119161598 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\wizarddialog.h
+
+1124213516 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\wizardpage2.h
+	"WizardPage1.h"
+	"WizardDialog.h"
+	"treectrlx.h"
+
+1124213340 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\wizardpage3.h
+	"WizardPage1.h"
+	"WizardDialog.h"
+	"treectrlx.h"
+
+1181131682 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\xwinver.h
+
+890774486 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\regexp.h
+
+1134205412 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\imagestore.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ImageStore.h"
+	"AppData.h"
+
+1134841926 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\inputdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"InputDialog.h"
+
+1132957610 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\inputdialog.h
+
+1132957788 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\inputlistdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"InputListDialog.h"
+	"AppData.h"
+
+1132957624 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\inputlistdialog.h
+
+1225471238 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\itemcreation.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ItemCreation.h"
+	"AppData.h"
+	"FormulaTier.h"
+	"Formula.h"
+	"FormulaSet.h"
+	"InputDialog.h"
+	"InputListDialog.h"
+	"Scheme.h"
+
+1189964547 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\iteminfo.cpp
+	"stdafx.h"
+	"ItemInfo.h"
+
+1189964552 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\itemresource.cpp
+	"stdafx.h"
+	"ItemResource.h"
+
+1189964557 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\itemtech.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ItemTech.h"
+
+1189964562 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\keywordgroup.cpp
+	"stdafx.h"
+	"KeywordGroup.h"
+
+1132957788 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\newprofiledialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"NewProfileDialog.h"
+	"Profile.h"
+	"AppData.h"
+
+1132957668 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\newprofiledialog.h
+
+1113663352 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\objectspace.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ObjectSpace.h"
+
+1208523710 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\optionsdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OptionsDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1134850426 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\orderdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OrderDialog.h"
+	"AppData.h"
+	"InputDialog.h"
+	<windowsx.h>
+	<windows.h>
+	<winuser.h>
+	"Scheme.h"
+
+1189964603 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\orderitem.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OrderItem.h"
+
+1189964608 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\profile.cpp
+	"stdafx.h"
+	"Profile.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1208453804 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\profiledialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfileDialog.h"
+	"AppData.h"
+	"NewProfileDialog.h"
+	"Scheme.h"
+
+1134077552 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\profilepage1.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage1.h"
+	"SkillDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1132957758 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\skilldialog.h
+
+1134077602 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\profilepage2.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage2.h"
+	"Bonus.h"
+	"AppData.h"
+	"Skill.h"
+	"SkillDialog.h"
+	"Scheme.h"
+
+1132957788 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\profilepage3.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage3.h"
+	"Bonus.h"
+	"AppData.h"
+	"Skill.h"
+	<math.h>
+
+1134857672 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\recachedialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"RecacheDialog.h"
+	"AppData.h"
+
+891457720 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\regexp.cpp
+	"stdafx.h"
+	"regexp.h"
+
+1133704190 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\registryaccess.cpp
+	"stdafx.h"
+	"HCC.h"
+	"RegistryAccess.h"
+
+1208659615 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\reportdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ReportDialog.h"
+	"OrderItem.h"
+	"AppData.h"
+	"Scheme.h"
+	"Regexp.h"
+
+1133894172 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\scheme.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Scheme.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1119187498 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\schoolwizard.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SchoolWizard.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1189964674 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\skill.cpp
+	"stdafx.h"
+	"Skill.h"
+
+1134841986 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\skilldialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SkillDialog.h"
+
+1134076872 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\skillleveldialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SkillLevelDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1098195056 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\stdafx.cpp
+	"stdafx.h"
+
+1189964687 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\subcategory.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SubCategory.h"
+
+1189964695 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\tech.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Tech.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"TechTier.h"
+	"AppData.h"
+
+1189964724 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\techset.cpp
+	"stdafx.h"
+	"HCC.h"
+	"TechSet.h"
+	"XMLTag.h"
+	"XMLParser.h"
+	"AppData.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"TechTier.h"
+	"Tech.h"
+
+1189964733 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\techtier.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Tech.h"
+
+1136482736 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\techniqueselection.cpp
+	"stdafx.h"
+	<afxctl.h>
+	"HCC.h"
+	"TechniqueSelection.h"
+	"AppData.h"
+	"Scheme.h"
+
+1135425580 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\treectrlx.cpp
+	"stdafx.h"
+	"HCC.h"
+	"TreeCtrlX.h"
+	"AppData.h"
+
+1208734466 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\updatedialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"UpdateDialog.h"
+	"AppData.h"
+	"XMLParser.h"
+	"XMLTag.h"
+	"unzip/structs.h"
+	"unzip/unzip.h"
+	"unzip/unzvers.h"
+	"unzip/decs.h"
+
+1118299560 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\unzip\structs.h
+
+1118299560 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\unzip\unzip.h
+	<c-env.h>
+	"wince/punzip.h"
+	<windows.h>
+	"windll/structs.h"
+	<rexxsaa.h>
+	<os2.h>
+	"unzpriv.h"
+
+1118299560 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\unzip\unzvers.h
+
+1118300760 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\unzip\decs.h
+	<windows.h>
+	"../unzip.h"
+	"unzip/structs.h"
+
+1208456774 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\windowstate.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WindowState.h"
+
+1119162704 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\wizarddialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardDialog.h"
+
+1189964761 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\wizardinfo.cpp
+	"stdafx.h"
+	"WizardInfo.h"
+
+1130074648 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\wizardpage1.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage1.h"
+	"AppData.h"
+	"SchoolWizard.h"
+	"Profile.h"
+
+1124213586 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\wizardpage2.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage2.h"
+
+1130071318 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\wizardpage3.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage3.h"
+	"AppData.h"
+
+1129921738 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\xmlparser.cpp
+	"stdafx.h"
+	"XMLParser.h"
+
+1208649597 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\xmltag.cpp
+	"stdafx.h"
+	"XMLTag.h"
+
+1181135664 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\xwinver.cpp
+	"stdafx.h"
+	"XWinVer.h"
+
+1110444186 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\font.cpp
+	"stdafx.h"
+	"font.h"
+
+1110444186 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\font.h
+
+1134672470 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\msflexgrid.cpp
+	"stdafx.h"
+	"msflexgrid.h"
+	"Font.h"
+	"Picture.h"
+	"rowcursor.h"
+	"Scheme.h"
+
+1099679286 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\picture.h
+
+1099228698 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\rowcursor.h
+
+1099228698 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\rowcursor.cpp
+	"stdafx.h"
+	"rowcursor.h"
+
+1225454968 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\hcc.rc
+	"resource.h"
+	"afxres.h"
+	"res\HCC.rc2"
+	"afxres.rc"
+
+1114359520 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.29\res\hcc.rc2
+
+1237253147 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\appdata.cpp
+	"stdafx.h"
+	"HCC.h"
+	"AppData.h"
+	"RegistryAccess.h"
+	"XMLParser.h"
+	"XMLTag.h"
+	"FileHandler.h"
+	"RecacheDialog.h"
+	"UpdateDialog.h"
+	"Scheme.h"
+	"direct.h"
+
+1132956690 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\stdafx.h
+	<afx.h>
+	<afxtempl.h>
+	<afxwin.h>
+	<afxext.h>
+	<afxdisp.h>
+	<afxdtctl.h>
+	<afxcmn.h>
+	<windows.h>
+	<gdiplus.h>
+	"BtnST.h"
+	"consts.h"
+
+1130772870 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\btnst.h
+
+1236723859 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\consts.h
+
+1134825244 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\hcc.h
+	"resource.h"
+
+1236967786 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\resource.h
+
+1236893519 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\appdata.h
+	"OrderDialog.h"
+	"ItemCreation.h"
+	"TechniqueSelection.h"
+	"ComponentDialog.h"
+	"SkillLevelDialog.h"
+	"ReportDialog.h"
+	"ProfileDialog.h"
+	"ProfilePage1.h"
+	"ProfilePage2.h"
+	"ProfilePage3.h"
+	"formulatier.h"
+	"formula.h"
+	"FormulaSet.h"
+	"techtier.h"
+	"tech.h"
+	"techSet.h"
+	"HCCDlg.h"
+	"ImageStore.h"
+	"OrderItem.h"
+	"Component.h"
+	"Profile.h"
+	"SchoolWizard.h"
+	"XMLParser.h"
+	"Category.h"
+	"SubCategory.h"
+
+1236806551 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\orderdialog.h
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+
+1208456780 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\windowstate.h
+
+1113662404 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\objectspace.h
+
+1114370590 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\treectrlx.h
+
+1225455177 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\itemcreation.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"Formula.h"
+	"ObjectSpace.h"
+	"OrderItem.h"
+	"TreeCtrlX.h"
+
+1134672470 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\msflexgrid.h
+
+1136455058 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\formula.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"formulatier.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"effect.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1117445066 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\bonus.h
+	"FileHandler.h"
+
+1128157872 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\filehandler.h
+
+1132074206 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\itemresource.h
+	"stdafx.h"
+	"bonus.h"
+	"FileHandler.h"
+
+1117445148 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\iteminfo.h
+	"FileHandler.h"
+
+1130512880 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\formulatier.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"effect.h"
+
+1128362012 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\keywordgroup.h
+	"FileHandler.h"
+
+1134587906 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\effect.h
+	"FileHandler.h"
+
+1117737924 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\xmlparser.h
+
+1133005112 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\xmltag.h
+	"XMLParser.h"
+
+1128244140 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\orderitem.h
+	"ItemTech.h"
+	"Tech.h"
+
+1128238394 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\itemtech.h
+
+1136460798 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\tech.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"Techtier.h"
+	"Formula.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1136482656 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\techtier.h
+	"bonus.h"
+	"itemresource.h"
+	"iteminfo.h"
+	"FileHandler.h"
+	"KeywordGroup.h"
+	"Effect.h"
+	"Formula.h"
+	"FormulaTier.h"
+
+1134856538 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\techniqueselection.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"Tech.h"
+	"TreeCtrlX.h"
+
+1208456407 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\componentdialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+	"Component.h"
+
+1132603176 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\component.h
+	"FileHandler.h"
+	"CompGatherInfo.h"
+
+1132601966 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\compgatherinfo.h
+	"stdafx.h"
+	"FileHandler.h"
+	"CompBonusInfo.h"
+
+1132600254 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\compbonusinfo.h
+	"stdafx.h"
+	"FileHandler.h"
+
+1133809008 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\skillleveldialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ItemResource.h"
+
+1236806762 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\reportdialog.h
+	"msflexgrid.h"
+	"WindowState.h"
+	"ObjectSpace.h"
+	"ItemResource.h"
+	"Effect.h"
+
+1132957702 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\profiledialog.h
+	"WindowState.h"
+	"ObjectSpace.h"
+	"TreeCtrlX.h"
+	"ProfilePage1.h"
+	"ProfilePage2.h"
+	"ProfilePage3.h"
+
+1132957714 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\profilepage1.h
+	"msflexgrid.h"
+
+1132957724 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\profilepage2.h
+
+1132957732 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\profilepage3.h
+
+1128149150 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\formulaset.h
+	"formula.h"
+	"FileHandler.h"
+
+1128156398 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\techset.h
+	"Tech.h"
+	"FileHandler.h"
+
+1236967733 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\hccdlg.h
+	"WindowState.h"
+	"wininet.h"
+
+1134205260 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\imagestore.h
+
+1130174534 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\profile.h
+	"Bonus.h"
+	"Skill.h"
+
+1117277782 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\skill.h
+
+1119187400 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\schoolwizard.h
+	"FileHandler.h"
+	"WizardInfo.h"
+
+1119187044 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\wizardinfo.h
+	"FileHandler.h"
+
+1128759230 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\category.h
+	"FileHandler.h"
+
+1128759230 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\subcategory.h
+	"FileHandler.h"
+
+1132863376 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\registryaccess.h
+
+1132957740 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\recachedialog.h
+
+1190154347 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\updatedialog.h
+	"XMLParser.h"
+	"FileItem.h"
+	"wininet.h"
+	"ItemInfo.h"
+	"databaserelease.h"
+
+1130525700 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\fileitem.h
+
+1130538476 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\databaserelease.h
+
+1133791156 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\scheme.h
+
+1189964404 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\bonus.cpp
+	"stdafx.h"
+	"Bonus.h"
+
+1130786508 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\btnst.cpp
+	"stdafx.h"
+	"BtnST.h"
+	<Mmsystem.h>
+
+1189964416 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\category.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Category.h"
+
+1189964424 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\compbonusinfo.cpp
+	"stdafx.h"
+	"CompBonusInfo.h"
+
+1189964432 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\compgatherinfo.cpp
+	"stdafx.h"
+	"CompGatherInfo.h"
+
+1189964440 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\component.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Component.h"
+
+1134506292 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\componentdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ComponentDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1112990858 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\craftersearchdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"CrafterSearchDialog.h"
+
+1112990858 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\craftersearchdialog.h
+
+1189964449 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\databaserelease.cpp
+	"stdafx.h"
+	"DatabaseRelease.h"
+
+1236380140 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\effect.cpp
+	"stdafx.h"
+	"Effect.h"
+
+1128157896 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\filehandler.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FileHandler.h"
+
+1117908912 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\fileitem.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FileItem.h"
+
+1190123211 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\formula.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Formula.h"
+	"AppData.h"
+
+1189964485 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\formulaset.cpp
+	"stdafx.h"
+	"HCC.h"
+	"FormulaSet.h"
+	"XMLTag.h"
+	"XMLParser.h"
+	"AppData.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"FormulaTier.h"
+	"Formula.h"
+
+1189964492 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\formulatier.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Formula.h"
+
+1236907476 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\hcc.cpp
+	"stdafx.h"
+	"HCC.h"
+	"HCCDlg.h"
+	"AppData.h"
+	"RegistryAccess.h"
+	"IO.h"
+
+1236967592 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\hcc.rc
+	"resource.h"
+	"afxres.h"
+	"res\HCC.rc2"
+	"afxres.rc"
+
+1114359520 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\res\hcc.rc2
+
+1236967628 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\hccdlg.cpp
+	"stdafx.h"
+	"HCC.h"
+	"HCCDlg.h"
+	"AppData.h"
+	"OptionsDialog.h"
+	"CrafterSearchDialog.h"
+	"UpdateDialog.h"
+	"WizardPage1.h"
+	"WizardPage2.h"
+	"WizardPage3.h"
+	"WizardDialog.h"
+	"Scheme.h"
+	"XWinVer.h"
+	"Regexp.h"
+
+1208523244 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\optionsdialog.h
+
+1124213516 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\wizardpage1.h
+	"Profile.h"
+	"WizardDialog.h"
+	"SchoolWizard.h"
+
+1119161598 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\wizarddialog.h
+
+1124213516 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\wizardpage2.h
+	"WizardPage1.h"
+	"WizardDialog.h"
+	"treectrlx.h"
+
+1124213340 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\wizardpage3.h
+	"WizardPage1.h"
+	"WizardDialog.h"
+	"treectrlx.h"
+
+1181131682 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\xwinver.h
+
+890774486 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\regexp.h
+
+1134205412 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\imagestore.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ImageStore.h"
+	"AppData.h"
+
+1134841926 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\inputdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"InputDialog.h"
+
+1132957610 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\inputdialog.h
+
+1132957788 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\inputlistdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"InputListDialog.h"
+	"AppData.h"
+
+1132957624 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\inputlistdialog.h
+
+1189964547 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\iteminfo.cpp
+	"stdafx.h"
+	"ItemInfo.h"
+
+1189964552 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\itemresource.cpp
+	"stdafx.h"
+	"ItemResource.h"
+
+1189964557 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\itemtech.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ItemTech.h"
+
+1189964562 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\keywordgroup.cpp
+	"stdafx.h"
+	"KeywordGroup.h"
+
+1132957788 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\newprofiledialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"NewProfileDialog.h"
+	"Profile.h"
+	"AppData.h"
+
+1132957668 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\newprofiledialog.h
+
+1113663352 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\objectspace.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ObjectSpace.h"
+
+1208523710 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\optionsdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OptionsDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1134850426 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\orderdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OrderDialog.h"
+	"AppData.h"
+	"InputDialog.h"
+	<windowsx.h>
+	<windows.h>
+	<winuser.h>
+	"Scheme.h"
+
+1189964603 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\orderitem.cpp
+	"stdafx.h"
+	"HCC.h"
+	"OrderItem.h"
+
+1237253090 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\profile.cpp
+	"stdafx.h"
+	"Profile.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1208453804 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\profiledialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfileDialog.h"
+	"AppData.h"
+	"NewProfileDialog.h"
+	"Scheme.h"
+
+1134077552 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\profilepage1.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage1.h"
+	"SkillDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1132957758 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\skilldialog.h
+
+1134077602 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\profilepage2.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage2.h"
+	"Bonus.h"
+	"AppData.h"
+	"Skill.h"
+	"SkillDialog.h"
+	"Scheme.h"
+
+1132957788 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\profilepage3.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ProfilePage3.h"
+	"Bonus.h"
+	"AppData.h"
+	"Skill.h"
+	<math.h>
+
+1134857672 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\recachedialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"RecacheDialog.h"
+	"AppData.h"
+
+891457720 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\regexp.cpp
+	"stdafx.h"
+	"regexp.h"
+
+1133704190 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\registryaccess.cpp
+	"stdafx.h"
+	"HCC.h"
+	"RegistryAccess.h"
+
+1237329693 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\reportdialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ReportDialog.h"
+	"OrderItem.h"
+	"AppData.h"
+	"Scheme.h"
+	"Regexp.h"
+	"IO.h"
+	"XWinVer.h"
+
+1133894172 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\scheme.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Scheme.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1119187498 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\schoolwizard.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SchoolWizard.h"
+	"XMLParser.h"
+	"XMLTag.h"
+
+1189964674 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\skill.cpp
+	"stdafx.h"
+	"Skill.h"
+
+1134841986 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\skilldialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SkillDialog.h"
+
+1134076872 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\skillleveldialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SkillLevelDialog.h"
+	"AppData.h"
+	"Scheme.h"
+
+1098195056 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\stdafx.cpp
+	"stdafx.h"
+
+1189964687 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\subcategory.cpp
+	"stdafx.h"
+	"HCC.h"
+	"SubCategory.h"
+
+1189964695 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\tech.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Tech.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"TechTier.h"
+	"AppData.h"
+
+1189964724 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\techset.cpp
+	"stdafx.h"
+	"HCC.h"
+	"TechSet.h"
+	"XMLTag.h"
+	"XMLParser.h"
+	"AppData.h"
+	"ItemInfo.h"
+	"Bonus.h"
+	"ItemResource.h"
+	"TechTier.h"
+	"Tech.h"
+
+1189964733 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\techtier.cpp
+	"stdafx.h"
+	"HCC.h"
+	"Tech.h"
+
+1236378130 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\techniqueselection.cpp
+	"stdafx.h"
+	<afxctl.h>
+	"HCC.h"
+	"TechniqueSelection.h"
+	"AppData.h"
+	"Scheme.h"
+
+1135425580 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\treectrlx.cpp
+	"stdafx.h"
+	"HCC.h"
+	"TreeCtrlX.h"
+	"AppData.h"
+
+1208734466 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\updatedialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"UpdateDialog.h"
+	"AppData.h"
+	"XMLParser.h"
+	"XMLTag.h"
+	"unzip/structs.h"
+	"unzip/unzip.h"
+	"unzip/unzvers.h"
+	"unzip/decs.h"
+
+1118299560 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\unzip\structs.h
+
+1118299560 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\unzip\unzip.h
+	<c-env.h>
+	"wince/punzip.h"
+	<windows.h>
+	"windll/structs.h"
+	<rexxsaa.h>
+	<os2.h>
+	"unzpriv.h"
+
+1118299560 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\unzip\unzvers.h
+
+1118300760 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\unzip\decs.h
+	<windows.h>
+	"../unzip.h"
+	"unzip/structs.h"
+
+1208456774 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\windowstate.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WindowState.h"
+
+1119162704 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\wizarddialog.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardDialog.h"
+
+1189964761 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\wizardinfo.cpp
+	"stdafx.h"
+	"WizardInfo.h"
+
+1130074648 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\wizardpage1.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage1.h"
+	"AppData.h"
+	"SchoolWizard.h"
+	"Profile.h"
+
+1124213586 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\wizardpage2.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage2.h"
+
+1130071318 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\wizardpage3.cpp
+	"stdafx.h"
+	"HCC.h"
+	"WizardPage3.h"
+	"AppData.h"
+
+1236805724 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\xmlparser.cpp
+	"stdafx.h"
+	"XMLParser.h"
+
+1208649597 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\xmltag.cpp
+	"stdafx.h"
+	"XMLTag.h"
+
+1181135664 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\xwinver.cpp
+	"stdafx.h"
+	"XWinVer.h"
+
+1110444186 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\font.cpp
+	"stdafx.h"
+	"font.h"
+
+1110444186 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\font.h
+
+1134672470 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\msflexgrid.cpp
+	"stdafx.h"
+	"msflexgrid.h"
+	"Font.h"
+	"Picture.h"
+	"rowcursor.h"
+	"Scheme.h"
+
+1099679286 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\picture.h
+
+1099228698 c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\rowcursor.h
+
+1099228698 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\rowcursor.cpp
+	"stdafx.h"
+	"rowcursor.h"
+
+1236380614 source:c:\documents and settings\frame\my documents\code\hcc2\hcc_2.30\itemcreation.cpp
+	"stdafx.h"
+	"HCC.h"
+	"ItemCreation.h"
+	"AppData.h"
+	"FormulaTier.h"
+	"Formula.h"
+	"FormulaSet.h"
+	"InputDialog.h"
+	"InputListDialog.h"
+	"Scheme.h"
+

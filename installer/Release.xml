@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<release>
+	<release-databaserevision>2009-03-18</release-databaserevision>
+	<release-title>Plugins!</release-title>
+	<release-minclientversion>2.30</release-minclientversion>
+	<release-notes>
+		<note author="Arcat" target="client" type="new">Added support for 3rd party plugins</note>
+		<note author="Arcat" target="client" type="new">Added runtime check for vital folders (Temp/, Orders/, etc.)</note>
+		<note author="Arcat" target="client" type="new">Added support for race requirements at techniques</note>
+		<note author="Arcat" target="client" type="new">Added commandline parameter handling</note>
+		<note author="Arcat" target="client" type="update">Cleaned up/prettified generated HTML</note>
+		<note author="Arcat" target="client" type="fix">Fixed several errors with 'Bonus' reports</note>
+		<note author="Arcat" target="client" type="fix">Fixed broken tier selector after a search</note>
+		<note author="Arcat" target="client" type="fix">Fixed item reset after delete</note>
+		<note author="Arcat" target="client" type="fix">Fixed an escaping issue when saving orders</note>
+		<note author="Arcat" target="database" type="new">Added Hunters Retribution Formula</note>
+		<note author="Arcat" target="database" type="fix">Fixed minor DB issue at Spell: Combust</note>
+		<note author="Arcat" target="installer" type="new">Added 'HCC Public Order Database' plugin</note>
+	</release-notes>
+	<acknowledgements>Dakoren, walkerglassmire</acknowledgements>
+</release>
